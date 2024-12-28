@@ -1,7 +1,7 @@
 require("@nomiclabs/hardhat-ethers");
 require('dotenv').config();
 
-const { ALCHEMY_API_KEY, PRIVATE_KEY } = process.env;
+const { ALCHEMY_API_KEY } = process.env;
 module.exports = {
   solidity: "0.8.17",
   networks: {
