@@ -1,6 +1,6 @@
 # Decentralized Escrow Application
 
-This is an Escrow Dapp built with [Hardhat](https://hardhat.org/). It is deployed on Mainnet Fork instead of Goerli in Alchemy's tutorial (https://university.alchemy.com/course/ethereum/md/63f8fc3b7163970002576467) for testing, and later on you can select your preferred network when MetaMask popped up. Detailed modification see commit history.
+This is an Escrow Dapp built with [Hardhat](https://hardhat.org/). It is deployed on Mainnet Fork instead of Goerli in Alchemy's tutorial (https://university.alchemy.com/course/ethereum/md/63f8fc3b7163970002576467) for testing, and later on you can select your preferred network when MetaMask(not Apex wallet, that's not working) popped up.
 
 ## Project Layout
 There are three top-level folders:
